@@ -3,7 +3,7 @@
 
 **Created:** December 6, 2024  
 **Deadline:** Tuesday, December 10, 2024 (Presentation)  
-**Team:** Josh (Code Lead), Jordan, Ian, Chao Jung Wu
+**Team:** Josh, Jordan, Ian, Chao Jung Wu
 
 ---
 
